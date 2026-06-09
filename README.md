@@ -3,4 +3,4 @@
 web, mobile, API testing </h2>
 
 
-[Linkedin](www.linkedin.com/in/elizaveta-sarenkova)
+[Linkedin](http://linkedin.com/in/elizaveta-sarenkova)
